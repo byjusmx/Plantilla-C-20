@@ -1,18 +1,18 @@
 
 function preload() {
-    //load the images here
+    //carga las imágenes aquí
 }
 
 function setup(){
     createCanvas(1000,800);
-    //create tom and jerry sprites here
+    //crea los sprites de Tom y Jerry aquí
 
 }
 
 function draw() {
 
     background(255);
-    //Write condition here to evalute if tom and jerry collide
+    //Escribe aquí la condición para evaluar si Tom y Jerry colisionan
 
     drawSprites();
 }
@@ -20,7 +20,7 @@ function draw() {
 
 function keyPressed(){
 
-  //For moving and changing animation write code here
+  //Escribe el código aquí para mover y cambiar la animación
 
 
 }
